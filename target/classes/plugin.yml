@@ -1,0 +1,11 @@
+name: MovingChannel
+version: 1.0
+main: me.toto7735.movingchannel.MovingChannel
+author: toto7735
+description: Will toto success to move old channel?
+api-version: 1.19
+commands:
+  start:
+  resetinventory:
+    aliases: [resetinv]
+  removetnt:
