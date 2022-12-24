@@ -1,6 +1,6 @@
 # The Story of Algorithm
 
-Plugin used in https://www.youtube.com/watch?v=SybIGueT6sk made by toto7735 with ❤
+Plugin used in [This Video](https://www.youtube.com/watch?v=SybIGueT6sk) made by toto7735 with ❤
 
 **Minecraft Version: 1.19**
 
