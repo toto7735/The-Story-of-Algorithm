@@ -2,7 +2,7 @@
 
 Plugin used in https://www.youtube.com/watch?v=SybIGueT6sk made by toto7735 with ❤
 
-**Minecraft Version: 1.18.2**
+**Minecraft Version: 1.19**
 
 **⚠️ Warning**
 
